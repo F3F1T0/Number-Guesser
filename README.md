@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-A robust command-line interface (CLI) game developed in Python. This project was built as part of the [roadmap.sh](https://roadmap.sh/backend) Backend Developer learning path to practice fundamental programming concepts, input validation, and project structure.
+A robust command-line interface (CLI) game developed in Python. This project was built as part of the [roadmap.sh](https://roadmap.sh/backend) Backend Developer learning path to practice fundamental programming concepts, input validation, and project structure. The original link of the project is: https://roadmap.sh/projects/number-guessing-game
 
 ## Features
 
